@@ -18,7 +18,7 @@ Gatsby biolink starter is a minimal and clean biolink page template made using g
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the biolink starter.
 
     ```shell
-    # create a new Gatsby site using the blog starter
+    # create a new Gatsby site using the biolink starter
     gatsby new biolink https://github.com/asheeeshh/gatsby-starter-biolink
     ```
 
